@@ -2,9 +2,8 @@
 
 /**
  * Author: Renzo Roso (Cheridum)
- * e-mail: rbe.roso@creasoldevelopment.com
- * BTC   : 15vVwpBAp5hSWr2pPWB2DQJ9dGGMKrjMQR
- * LTC   : LSuYbxjytHvQcKERf1A6ETZqYsmjiP5c6i
+ * e-mail: rbe.roso@creasoldevelopment.eu
+ * BTC   : 18oFXFoxkZDFK8M5G59BAfxDSACXptKXJu
  * donations are welcome =)
  * 
  * This class automatically sets the current BTC, LTC, GHS and KHS balance on making the object.
